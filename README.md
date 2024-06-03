@@ -3,7 +3,7 @@
 Nama : [NAMA]  
 NIU : [NIU]  
 Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Secret String : 069c5ae25439f19872d748b351032b71e187e17efd995e004ecc290204b6578820240603013450
 
 ## Checklist Responsi
 
